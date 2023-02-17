@@ -1,0 +1,588 @@
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.Dtos.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.SpecFlowPlugin.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.exe
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.deps.json
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.runtimeconfig.json
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\AngleSharp.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BoDi.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\DnsClient.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SeleniumExtras.WaitHelpers.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ExtentReports.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\FluentAssertions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Gherkin.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\RazorEngine.NetCore.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.Support.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlow.Internal.Json.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriverManager.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.AssemblyReference.cache
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfoInputs.cache
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfo.cs
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CoreCompileInputs.cache
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CopyComplete
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\NowOpticsAutomation\TestAutomation-Master\TestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.genruntimeconfig.cache
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.Dtos.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.SpecFlowPlugin.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.exe
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.deps.json
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.runtimeconfig.json
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\AngleSharp.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BoDi.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\DnsClient.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SeleniumExtras.WaitHelpers.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Enums.NET.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ExtentReports.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\FluentAssertions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Gherkin.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\RazorEngine.NetCore.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.Support.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlow.Internal.Json.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriverManager.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.AssemblyReference.cache
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfoInputs.cache
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfo.cs
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CoreCompileInputs.cache
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CopyComplete
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\NowOpticsAutomation\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.genruntimeconfig.cache
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.Dtos.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\LivingDoc.SpecFlowPlugin.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testhost.exe
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.deps.json
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.runtimeconfig.json
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\AngleSharp.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BoDi.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\DnsClient.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SeleniumExtras.WaitHelpers.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Enums.NET.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ExtentReports.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\FluentAssertions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Gherkin.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NPOI.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\RazorEngine.NetCore.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.Support.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriver.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\TechTalk.SpecFlow.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\SpecFlow.Internal.Json.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\WebDriverManager.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfoInputs.cache
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.AssemblyInfo.cs
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CoreCompileInputs.cache
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.csproj.CopyComplete
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\ref\SpecFlowNunitTestAutomation.dll
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.pdb
+D:\My Github Selenium Frameworks\ZeusTestAutomation\SpecFlowNunitTestAutomation\obj\Debug\net6.0-windows\SpecFlowNunitTestAutomation.genruntimeconfig.cache

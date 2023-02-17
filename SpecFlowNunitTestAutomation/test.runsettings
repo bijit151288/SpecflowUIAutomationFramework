@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+	<!-- Parameters used by tests at runtime -->
+	<!-- Valid values for "BrowserName" are Chrome, Chrome_Headless and Firefox  -->
+	<!-- Valid values for "Environment" are QA1, QA2, QA3, QA4, QA5, ZEUSSTAGINGAPP, PRODAPPSERVICE and PRODVM  -->
+	<!-- Values for "JiraTicketNum" to be provided when script is started. For ex: DEV-238  -->
+	<TestRunParameters>
+		<Parameter name="BrowserName" value="Chrome" />
+		<Parameter name="Environment" value="QA1" />
+		<Parameter name="JiraTicketNum" value="DEV-238" />
+	</TestRunParameters>
+
+</RunSettings>
